@@ -1,0 +1,7 @@
+# Contenido de la autora del video: solo para uso personal, no se redistribuye
+video/
+frames/
+slides/
+transcripcion.txt
+.venv/
+__pycache__/
