@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portugués Rápido</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇧🇷</text></svg>">
+  <link rel="stylesheet" href="web/styles.css">
+</head>
+<body>
+  <header class="top">
+    <h1>Português <span>rápido</span></h1>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button data-tab="video" class="active">🎬 Video</button>
+    <button data-tab="cards">🃏 Tarjetas</button>
+    <button data-tab="quiz">✅ Quiz</button>
+    <button data-tab="sounds">🔊 Sonidos</button>
+    <button data-tab="guide">📖 Guía</button>
+  </nav>
+
+  <main>
+    <!-- VIDEO -->
+    <section id="video" class="panel active">
+      <div class="video-layout">
+        <div class="player-wrap"><div id="player"></div></div>
+        <aside class="chapters">
+          <h2>Capítulos</h2>
+          <p class="hint">Toca un tema para saltar a ese minuto. Márcalo ✓ al terminar. Consejo: empieza por <b>Sonidos</b>.</p>
+          <ol id="chapterList"></ol>
+        </aside>
+      </div>
+      <p class="credit">Video: <a href="https://youtu.be/zb5YFaoXpKw" target="_blank" rel="noopener">“Habla Português en 60 Minutos”</a> — Sonia Rodríguez Mella.</p>
+    </section>
+
+    <!-- CARDS -->
+    <section id="cards" class="panel">
+      <div class="toolbar">
+        <label>Dirección
+          <select id="direction">
+            <option value="es-pt">Español → Português</option>
+            <option value="pt-es">Português → Español</option>
+          </select>
+        </label>
+        <span id="queueInfo" class="hint"></span>
+      </div>
+      <div class="card-stage">
+        <div class="card" id="card" tabindex="0" aria-live="polite">
+          <div class="card-front" id="cardFront"></div>
+          <div class="card-back hidden" id="cardBack"></div>
+        </div>
+        <div class="card-actions" id="flipActions">
+          <button class="primary" id="flipBtn">Mostrar respuesta <kbd>espacio</kbd></button>
+        </div>
+        <div class="card-actions hidden" id="gradeActions">
+          <button class="icon" id="speakBtn" title="Escuchar">🔊</button>
+          <button class="icon" id="micBtn" title="Dilo en voz alta">🎤</button>
+          <button class="bad" id="againBtn">No lo sabía <kbd>1</kbd></button>
+          <button class="good" id="goodBtn">Lo sabía <kbd>2</kbd></button>
+        </div>
+        <p id="micResult" class="mic-result"></p>
+      </div>
+    </section>
+
+    <!-- QUIZ -->
+    <section id="quiz" class="panel">
+      <div class="toolbar">
+        <label>Modo
+          <select id="quizMode">
+            <option value="choice">Opción múltiple</option>
+            <option value="type">Escribir la respuesta</option>
+          </select>
+        </label>
+        <button id="newQuiz">Nuevo quiz (10)</button>
+        <span id="quizScore" class="hint"></span>
+      </div>
+      <div id="quizBox" class="quiz-box"></div>
+    </section>
+
+    <!-- SOUNDS -->
+    <section id="sounds" class="panel">
+      <p class="hint">Los 37 sonidos del apéndice de fonética, agrupados. Toca 🔊 para escuchar el ejemplo y ▶ para ver a la profesora explicarlo.</p>
+      <div id="soundGrid" class="sound-grid"></div>
+    </section>
+
+    <!-- GUIDE -->
+    <section id="guide" class="panel">
+      <article id="guideBody" class="guide">Cargando guía…</article>
+    </section>
+  </main>
+
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+  <script src="web/data.js"></script>
+  <script src="web/app.js"></script>
+</body>
+</html>

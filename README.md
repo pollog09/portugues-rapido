@@ -5,6 +5,22 @@ Material de estudio para hispanohablantes que quieren hablar portugués de Brasi
 - **[guia-portugues.md](guia-portugues.md)**: resumen por temas del curso gratuito [*Habla Português en 60 Minutos*](https://youtu.be/zb5YFaoXpKw) de Sonia Rodríguez Mella, con pronunciación, falsos amigos, gramática mínima, verbos clave, frases comodín y un plan de 30 días.
 - **[anki.csv](anki.csv)**: tarjetas español → portugués (separadas por tabulaciones) para importar en Anki.
 
+## App de estudio
+
+`index.html` es una app web sin dependencias de compilación:
+
+- 🎬 **Video**: el video original de YouTube incrustado, con 21 capítulos que saltan al minuto de cada tema y se pueden marcar como terminados.
+- 🃏 **Tarjetas**: repetición espaciada (sistema Leitner), audio en portugués de Brasil 🔊 y 🎤 para practicar la pronunciación con reconocimiento de voz (Chrome/Edge). Atajos: `espacio`, `1`, `2`.
+- ✅ **Quiz**: opción múltiple o escribir la respuesta; los fallos vuelven a las tarjetas.
+- 🔊 **Sonidos**: los 37 sonidos del apéndice de fonética, con ejemplos para escuchar.
+- 📖 **Guía**: `guia-portugues.md` renderizada.
+
+El progreso se guarda en el navegador (localStorage).
+
+```bash
+python3 -m http.server 8000   # luego abre http://localhost:8000
+```
+
 ## Regenerar el material local
 
 El video y sus frames no se incluyen: pertenecen a su autora.
