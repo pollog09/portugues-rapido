@@ -14,6 +14,7 @@
   </header>
 
   <nav class="tabs" role="tablist">
+    <button data-tab="all">📚 Todo</button>
     <button data-tab="video" class="active">🎬 Video</button>
     <button data-tab="cards">🃏 Tarjetas</button>
     <button data-tab="quiz">✅ Quiz</button>
@@ -22,6 +23,12 @@
   </nav>
 
   <main>
+    <!-- TODO: diapositivas + apuntes en un solo scroll -->
+    <section id="all" class="panel">
+      <nav class="toc" id="allToc" aria-label="Temas"></nav>
+      <div id="allBody" class="all-body">Cargando material…</div>
+    </section>
+
     <!-- VIDEO -->
     <section id="video" class="panel active">
       <div class="video-layout">
@@ -90,6 +97,13 @@
       <article id="guideBody" class="guide">Cargando guía…</article>
     </section>
   </main>
+
+  <div id="lightbox" class="lightbox hidden" role="dialog" aria-label="Diapositiva ampliada">
+    <button class="lb-nav lb-prev" id="lbPrev" aria-label="Anterior">‹</button>
+    <img id="lbImg" alt="">
+    <button class="lb-nav lb-next" id="lbNext" aria-label="Siguiente">›</button>
+    <p class="lb-cap" id="lbCap"></p>
+  </div>
 
   <script src="https://www.youtube.com/iframe_api"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>

@@ -9,6 +9,7 @@ Material de estudio para hispanohablantes que quieren hablar portugués de Brasi
 
 `index.html` es una app web sin dependencias de compilación:
 
+- 📚 **Todo**: un solo scroll con las diapositivas de cada tema (desde tu carpeta local `slides/`, con zoom y navegación ← →), sus apuntes y el material extra.
 - 🎬 **Video**: el video original de YouTube incrustado, con 21 capítulos que saltan al minuto de cada tema y se pueden marcar como terminados.
 - 🃏 **Tarjetas**: repetición espaciada (sistema Leitner), audio en portugués de Brasil 🔊 y 🎤 para practicar la pronunciación con reconocimiento de voz (Chrome/Edge). Atajos: `espacio`, `1`, `2`.
 - ✅ **Quiz**: opción múltiple o escribir la respuesta; los fallos vuelven a las tarjetas.

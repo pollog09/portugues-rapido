@@ -155,3 +155,31 @@ select {
 .guide th { background: var(--accent-soft); }
 .guide blockquote { margin: 0; padding: 8px 16px; border-left: 4px solid var(--gold); background: var(--surface); border-radius: 0 10px 10px 0; }
 .guide h2 { margin-top: 36px; border-bottom: 1px solid var(--line); padding-bottom: 6px; }
+
+/* Todo: diapositivas + apuntes */
+.toc { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 24px; }
+.toc a {
+  font-size: 13px; text-decoration: none; color: var(--text);
+  background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px;
+}
+.toc a:hover { border-color: var(--accent); color: var(--accent); }
+.all-body { max-width: 980px; margin: 0 auto; }
+.topic { scroll-margin-top: 70px; padding-bottom: 32px; margin-bottom: 32px; border-bottom: 1px solid var(--line); }
+.topic-head { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+.topic-head h2 { margin: 0; font-size: 22px; }
+.topic-head .time { font: 14px ui-monospace, monospace; color: var(--muted); margin-right: 8px; }
+.slides { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr)); gap: 14px; margin: 16px 0; }
+.slides figure { margin: 0; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; cursor: zoom-in; }
+.slides img { display: block; width: 100%; height: auto; }
+.slides figcaption { font: 12px ui-monospace, monospace; color: var(--muted); padding: 4px 10px; }
+.notes { background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--accent); border-radius: 12px; padding: 4px 18px; }
+.notes table { border-collapse: collapse; display: block; overflow-x: auto; font-size: 15px; }
+.notes th, .notes td { border: 1px solid var(--line); padding: 5px 9px; text-align: left; }
+.notes th { background: var(--accent-soft); }
+.no-slides { color: var(--muted); font-size: 14px; }
+
+.lightbox { position: fixed; inset: 0; z-index: 50; background: rgba(0,0,0,.88); display: flex; align-items: center; justify-content: center; padding: 16px; }
+.lightbox img { max-width: min(100%, 1400px); max-height: 88vh; border-radius: 8px; background: #fff; }
+.lb-nav { position: absolute; top: 50%; transform: translateY(-50%); font-size: 36px; line-height: 1; background: rgba(255,255,255,.12); color: #fff; border: 0; padding: 10px 16px; }
+.lb-prev { left: 10px; } .lb-next { right: 10px; }
+.lb-cap { position: absolute; bottom: 8px; left: 0; right: 0; text-align: center; color: #ddd; font-size: 14px; margin: 0; }

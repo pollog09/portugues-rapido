@@ -261,20 +261,107 @@ $("#soundGrid").addEventListener("click", (e) => {
   if (b.dataset.say) speak(b.dataset.say); else seek(+b.dataset.t);
 });
 
+// ---------- todo: diapositivas + apuntes en un solo scroll ----------
+const toSec = (mmss) => { const [m, s] = mmss.split(":").map(Number); return m * 60 + s; };
+const INTRO_END = 16; // antes de este segundo solo hay portada y "suscríbete"
+let slideList = [];
+
+async function loadSlides() {
+  // Las diapositivas son locales (slides/, fuera de git); http.server devuelve un listado HTML.
+  try {
+    const html = await (await fetch("slides/")).text();
+    return [...html.matchAll(/href="(\d\dm\d\ds)\.jpg"/g)]
+      .map(([, n]) => ({ src: `slides/${n}.jpg`, t: +n.slice(0, 2) * 60 + +n.slice(3, 5) }))
+      .filter((s) => s.t >= INTRO_END)
+      .sort((a, b) => a.t - b.t)
+      .filter((s, i, all) => !(all[i + 1] && all[i + 1].t - s.t <= 8)); // captura a mitad de transición
+  } catch { return []; }
+}
+
+function renderAll(md, slides) {
+  const [part1, part2 = ""] = md.split(/^## Parte 2.*$/m);
+  // Cada "### MM:SS · Tema" del resumen se vuelve una sección con las diapositivas de su rango
+  const sections = part1.split(/^### /m).slice(1).map((chunk) => {
+    const nl = chunk.indexOf("\n");
+    const heading = chunk.slice(0, nl).trim();
+    const start = toSec(heading.match(/^(\d\d:\d\d)/)[1]);
+    return { heading, title: heading.split("·").slice(1).join("·").trim(), start, body: chunk.slice(nl + 1) };
+  });
+  sections.forEach((s, i) => {
+    const end = sections[i + 1]?.start ?? Infinity;
+    s.slides = slides.filter((sl) => sl.t >= s.start && sl.t < end);
+  });
+  slideList = sections.flatMap((s) => s.slides.map((sl) => ({ ...sl, title: s.title })));
+
+  $("#allToc").innerHTML = sections.map((s, i) => `<a href="#topic-${i}">${s.title.replace(/\s*\(.*\)$/, "")}</a>`).join("")
+    + `<a href="#topic-extra">➕ Material extra</a>`;
+
+  const noSlides = slides.length ? "" :
+    `<p class="no-slides">No hay diapositivas locales en <code>slides/</code> (se generan con <code>slides.py</code>; ver README).</p>`;
+  $("#allBody").innerHTML = noSlides + sections.map((s, i) => `
+    <section class="topic" id="topic-${i}">
+      <div class="topic-head">
+        <h2><span class="time">${s.heading.split("·")[0].trim()}</span>${s.title}</h2>
+        <button data-t="${s.start}">▶ Ver en el video</button>
+      </div>
+      ${s.slides.length ? `<div class="slides">${s.slides.map((sl) => `
+        <figure data-src="${sl.src}"><img src="${sl.src}" loading="lazy" alt="Diapositiva ${fmt(sl.t)} · ${s.title}">
+        <figcaption>${fmt(sl.t)}</figcaption></figure>`).join("")}</div>` : ""}
+      <div class="notes">${marked.parse(s.body)}</div>
+    </section>`).join("")
+    + `<section class="topic" id="topic-extra"><div class="topic-head"><h2>➕ Material extra</h2></div>
+       <div class="notes">${marked.parse(part2)}</div></section>`;
+}
+$("#allBody").addEventListener("click", (e) => {
+  const b = e.target.closest("button[data-t]");
+  if (b) return seek(+b.dataset.t);
+  const fig = e.target.closest("figure[data-src]");
+  if (fig) openLightbox(slideList.findIndex((s) => s.src === fig.dataset.src));
+});
+$("#allToc").addEventListener("click", (e) => {
+  const a = e.target.closest("a"); if (!a) return;
+  e.preventDefault();
+  document.querySelector(a.getAttribute("href"))?.scrollIntoView({ behavior: "smooth" });
+});
+
+let lbIndex = -1;
+function openLightbox(i) {
+  if (i < 0 || i >= slideList.length) return;
+  lbIndex = i;
+  const s = slideList[i];
+  $("#lbImg").src = s.src;
+  $("#lbCap").textContent = `${fmt(s.t)} · ${s.title} — ${i + 1}/${slideList.length}  (← → para navegar, Esc para cerrar)`;
+  $("#lightbox").classList.remove("hidden");
+}
+const closeLightbox = () => { $("#lightbox").classList.add("hidden"); lbIndex = -1; };
+$("#lightbox").addEventListener("click", (e) => {
+  if (e.target.id === "lbPrev") openLightbox(lbIndex - 1);
+  else if (e.target.id === "lbNext") openLightbox(lbIndex + 1);
+  else if (e.target.id !== "lbImg") closeLightbox();
+});
+document.addEventListener("keydown", (e) => {
+  if (lbIndex < 0) return;
+  if (e.key === "Escape") closeLightbox();
+  else if (e.key === "ArrowLeft") openLightbox(lbIndex - 1);
+  else if (e.key === "ArrowRight") openLightbox(lbIndex + 1);
+});
+
 // ---------- carga de datos ----------
 async function load() {
   renderChapters(); renderSounds(); renderStats();
   showTab(store.get("pr.tab", "video"));
   try {
-    const [csv, md] = await Promise.all([
+    const [csv, md, slides] = await Promise.all([
       fetch("anki.csv").then((r) => r.text()),
       fetch("guia-portugues.md").then((r) => r.text()),
+      loadSlides(),
     ]);
     CARDS = csv.split("\n").filter(Boolean).map((l) => { const [es, pt] = l.split("\t"); return { es, pt }; }).filter((c) => c.pt);
     $("#guideBody").innerHTML = window.marked ? marked.parse(md) : `<pre>${md.replace(/</g, "&lt;")}</pre>`;
+    if (window.marked) renderAll(md, slides);
   } catch {
     const msg = `<p>No se pudieron cargar los datos. Abre la página con un servidor local:<br><code>python3 -m http.server</code> y visita <code>http://localhost:8000</code>.</p>`;
-    $("#cardFront").innerHTML = msg; $("#quizBox").innerHTML = msg; $("#guideBody").innerHTML = msg;
+    $("#cardFront").innerHTML = msg; $("#quizBox").innerHTML = msg; $("#guideBody").innerHTML = msg; $("#allBody").innerHTML = msg;
     return;
   }
   renderStats(); buildQueue(); showCard(); startQuiz();
