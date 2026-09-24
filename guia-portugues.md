@@ -2,130 +2,492 @@
 
 Basada en el video **"Habla Português en 60 Minutos: Curso Intensivo para Principiantes"** de Sonia Rodríguez Mella (https://youtu.be/zb5YFaoXpKw), más material extra para acelerar tu aprendizaje.
 
-> **El método de la profesora:** escucha → repite en voz alta → grábate → compárate con ella. Así aprendimos de niños: imitando y corrigiéndonos. No te frenes en cada palabra; la pronunciación está al final del video (minuto 55) y conviene verla **primero**.
+> **El método de la profesora:** escucha → repite en voz alta → grábate → compárate con ella. Así aprendimos de niños: imitando y corrigiéndonos. La pronunciación está al final del video (minuto 55) y conviene verla **primero**.
+
+**Cómo leer la columna "Suena":** es una aproximación para hispanohablantes. La tilde marca la sílaba fuerte y la *n* en cursiva marca una nasal (se dice por la nariz, sin cerrar la boca).
 
 ---
 
 ## Parte 1 — Resumen del video
 
-El video es un repaso intensivo de vocabulario (español rioplatense → portugués de Brasil) organizado por temas, con notas "**PSIU!**" (¡ojo!) y un apéndice de fonética. Abajo va lo esencial de cada bloque, sobre todo **lo que difiere del español** (lo igual ya lo sabes).
+El video repasa vocabulario (español rioplatense → portugués de Brasil) por temas, con notas "**PSIU!**" (¡ojo!) y un apéndice de fonética. Aquí va lo esencial de cada bloque, sobre todo **lo que cambia respecto al español**.
 
 ### 00:16 · Palabras básicas
-sim / não · olá, **oi** · **tchau** · bom dia / boa tarde / boa noite · **obrigado** (lo dice un hombre) / **obrigada** (lo dice una mujer) · de nada · por favor · **desculpe** (perdón) · **como vai?** · **bem**, obrigado · **como você se chama? – eu me chamo…** · **não entendo** · um pouco · **muito**.
-- 💡 **bem / mal** (sustantivos) vs **bom / mau** (adjetivos). *Mal* y *mau* suenan igual ("mau"), porque la **L al final de sílaba se pronuncia U**.
-- 💡 *Muito* se pronuncia "muinto": la i suena nasal.
 
-### 03:24 – 08:00 · Frases esenciales
-- Saludos: **oi** (informal), **alô** (al teléfono), **até logo** (hasta luego), **até amanhã**, **muito prazer** (mucho gusto), **tudo bem?** – **tudo bem!**, **ótimo** (muy bien).
-- ¿Hablas portugués? → **Você fala português?** – *Falo, sim.* / *Não, não falo.* (En Brasil se responde repitiendo el verbo, no con un simple "sí").
-- Citas: **A que horas a gente se encontra?** – *Às cinco da tarde.* – **Está combinado** (de acuerdo).
-- Conocer a alguien: *De onde você é?* – *Sou da Argentina.* · *Você está sozinho?* · *Você é casado?* · **Gosto muito de você** · *Você gosta de dançar?* · **Vamos embora?** (¿nos vamos?).
-- Compras: **Quanto custa?** · *Qual é o preço?* · **Posso pagar parcelado?** (en cuotas) – *Não, só à vista* (solo al contado).
-- Rutina diaria: *Você acorda cedo?* · **tomar banho** (ducharse) · **escovar os dentes** · **passar fio dental** · **ir de carro / pegar o ônibus** · *Adoro ler toda noite.*
-- Supervivencia: **Preciso de ajuda** · **Por favor, me ajude** · **Que horas são?** · *Onde fica o ponto de ônibus?* · **Com licença, posso passar?** · **Eu não entendi** · **Você pode falar mais devagar?** · **Fique à vontade** (siéntete como en casa) · **Parabéns!** · **Não tenho certeza** (no estoy seguro) · *Tenha um bom dia!*
+#### Sí, no y cortesía
+| Español | Português | Suena |
+|---|---|---|
+| sí / no | sim / não | si*n* / ná*un* |
+| gracias (hombre / mujer) | obrigado / obrigada | obrigádu / obrigáda |
+| de nada | de nada | dji náda |
+| por favor | por favor | pur favór |
+| perdón | desculpe | discúupi |
+| bienvenido/a | bem-vindo/a | be*in* ví*n*du/a |
+
+#### Bien, mal y cantidades
+| Español | Português | Nota |
+|---|---|---|
+| bien / mal (sustantivo) | bem / mal | *mal* suena "mau" |
+| bueno / malo (adjetivo) | bom / mau | *mau* se escribe con u |
+| un poco | um pouco | u*n* póuku |
+| mucho | muito | múi*n*tu (i nasal) |
+| no entiendo | não entendo | ná*un* e*n*té*n*du |
+
+> **PSIU!** La **L al final de sílaba suena U**: por eso *mal* y *mau* suenan igual.
+
+### 03:24 · Frases esenciales
+
+#### Saludos y despedidas
+| Español | Português | Suena |
+|---|---|---|
+| hola (formal / informal) | olá / oi | olá / ói |
+| hola (al teléfono) | alô | alô |
+| buenos días | bom dia | bo*n* djía |
+| buenas tardes | boa tarde | bóa tárdji |
+| buenas noches | boa noite | bóa nóichi |
+| chau | tchau | cháu |
+| hasta luego | até logo | até lógu |
+| hasta mañana | até amanhã | até amañá |
+| ¡que tengas un buen día! | tenha um bom dia! | téña u*n* bo*n* djía |
+
+#### ¿Cómo estás?
+| Español | Português | Suena |
+|---|---|---|
+| ¿cómo estás? / ¿cómo te va? | como vai? / como vai você? | cómu vái vosê |
+| ¿todo bien? | tudo bem? | túdu be*in* |
+| todo bien, gracias | tudo bem, obrigado/a | túdu be*in* obrigádu |
+| muy bien | ótimo | óchimu |
+| mucho gusto | muito prazer | múi*n*tu prazér |
+
+#### Presentarse y conocer gente
+| Español | Português |
+|---|---|
+| ¿cómo te llamas? | como você se chama? |
+| me llamo… | eu me chamo… |
+| ¿de dónde eres? | de onde você é? |
+| soy de Argentina | sou da Argentina |
+| ¿hablas portugués? | você fala português? |
+| sí / no, no hablo | falo, sim / não, não falo |
+| ¿estás solo? | você está sozinho? |
+| ¿estás casado? | você é casado? |
+| me gustas mucho | gosto muito de você |
+| ¿te gusta bailar? | você gosta de dançar? |
+
+> **PSIU!** En Brasil se responde **repitiendo el verbo**: *Você fala português? — **Falo**, sim.*
+
+#### Quedar y hacer planes
+| Español | Português |
+|---|---|
+| ¿a qué hora nos encontramos? | a que horas a gente se encontra? |
+| a las cinco de la tarde | às cinco da tarde |
+| ok, de acuerdo | está combinado |
+| ¿nos vamos? | vamos embora? |
+| quiero ir al shopping | quero ir ao shopping |
+
+#### Compras
+| Español | Português |
+|---|---|
+| ¿cuánto es? / ¿cuánto cuesta? | quanto custa? |
+| ¿cuál es el precio? | qual é o preço? |
+| ¿puedo pagar en cuotas? | posso pagar parcelado? |
+| no, solo al contado | não, só à vista |
+
+#### Rutina diaria
+| Español | Português |
+|---|---|
+| ¿te despiertas temprano? | você acorda cedo? |
+| ducharse | tomar banho |
+| vestirse | se vestir |
+| cepillarse los dientes | escovar os dentes |
+| pasar el hilo dental | passar fio dental |
+| ¿vas en auto a la oficina? | você vai de carro ao escritório? |
+| no, tomo el colectivo | não, eu pego o ônibus |
+| me encanta leer todas las noches | adoro ler toda noite |
+
+#### Supervivencia
+| Español | Português |
+|---|---|
+| necesito ayuda | preciso de ajuda |
+| por favor, ayúdame | por favor, me ajude |
+| ¿qué hora es? | que horas são? |
+| ¿dónde está la parada del autobús? | onde fica o ponto de ônibus? |
+| disculpa, llego tarde | desculpe, estou atrasado/a |
+| permiso, ¿puedo pasar? | com licença, posso passar? |
+| no entendí | eu não entendi |
+| ¿puedes hablar más despacio? | você pode falar mais devagar? |
+| no estoy seguro/a | não tenho certeza |
+| siéntete como en casa | fique à vontade |
+| ¡felicitaciones! | parabéns! |
 
 ### 08:04 · Frases temporales
-**hoje** (hoy) · **ontem** (ayer) · **amanhã** (mañana) · **anteontem** (anteayer) · **depois de amanhã** · a semana · o mês · o ano · **daqui a pouco** (dentro de un rato) · o ano que vem / o ano passado · de manhã / de tarde / de noite · **enquanto** (mientras) · **depois** (después) · antes · **agora** (ahora).
+
+#### Días y momentos
+| Español | Português | Español | Português |
+|---|---|---|---|
+| hoy | hoje | anteayer | anteontem |
+| ayer | ontem | pasado mañana | depois de amanhã |
+| mañana | amanhã | más tarde | mais tarde |
+| el día | o dia | la noche | a noite |
+| la semana | a semana | el mes | o mês |
+| el año | o ano | el año que viene / pasado | o ano que vem / passado |
+
+#### Conectores de tiempo
+| Español | Português |
+|---|---|
+| ahora | agora |
+| antes / después | antes / depois |
+| mientras | enquanto |
+| mientras tanto | enquanto isso |
+| dentro de un rato | daqui a pouco |
+| de mañana / de tarde / de noche | de manhã / de tarde / de noite |
 
 ### 08:56 · Las horas
-**Que horas são?** → *São as sete e dez* · *São as três e quinze* · *São as dez e meia* · **São dez para as cinco** (las cinco menos diez) · **é meia-noite / é meio-dia**.
-- 💡 "Menos" se dice con **para**: *quinze para as seis* = las seis menos cuarto.
+| Español | Português |
+|---|---|
+| ¿qué hora es? | que horas são? |
+| son las siete y diez | são as sete e dez |
+| son las tres y cuarto | são as três e quinze |
+| son las diez y media | são as dez e meia |
+| son las cinco menos diez | são dez para as cinco |
+| son las seis menos cuarto | são quinze para as seis |
+| es mediodía / medianoche | é meio-dia / meia-noite |
 
-### 10:16 – 14:40 · Días, meses y estaciones
-- Días: **segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira**, sábado, domingo (de lunes a viernes se cuentan: 2.º, 3.º… "feira").
-- Meses: janeiro, **fevereiro**, março, abril, maio, junho, julho, agosto, **setembro, outubro, novembro, dezembro**.
-- Estaciones: a primavera, **o verão**, **o outono**, **o inverno**.
-- PSIU!: días, meses y estaciones se escriben **en minúscula**.
-- PSIU!: artículos → **o, a, os, as** (el, la, los, las) y **um, uma, uns, umas**.
+> **PSIU!** El "menos" se dice con **para**, y el "cuarto" es **quinze**.
+
+### 10:16 · Días de la semana
+| Español | Português | Truco |
+|---|---|---|
+| lunes | segunda-feira | 2.º día |
+| martes | terça-feira | 3.º |
+| miércoles | quarta-feira | 4.º |
+| jueves | quinta-feira | 5.º |
+| viernes | sexta-feira | 6.º |
+| sábado / domingo | sábado / domingo | igual |
+
+> En la conversación se acorta: *segunda, terça, quarta…* ("nos vemos na sexta").
+
+### 11:24 · Meses del año
+| Español | Português | Español | Português |
+|---|---|---|---|
+| enero | janeiro | julio | julho |
+| febrero | fevereiro | agosto | agosto |
+| marzo | março | septiembre | setembro |
+| abril | abril | octubre | outubro |
+| mayo | maio | noviembre | novembro |
+| junio | junho | diciembre | dezembro |
+
+> **PSIU!** Días, meses y estaciones se escriben **en minúscula**.
+
+### 14:40 · Estaciones y artículos
+| Español | Português |
+|---|---|
+| la primavera | a primavera |
+| el verano | o verão |
+| el otoño | o outono |
+| el invierno | o inverno |
+
+| Artículos | Español | Português |
+|---|---|---|
+| definidos | el, la, los, las | **o, a, os, as** |
+| indefinidos | un, una, unos, unas | **um, uma, uns, umas** |
 
 ### 15:40 · Indicadores de lugar
-**à direita** / **à esquerda** · **acima, em cima** (arriba) · **abaixo** · **perto** (cerca) · **longe** (lejos) · aqui.
-- PSIU!: contracción **a + a = à**.
+| Español | Português |
+|---|---|
+| a la derecha | à direita |
+| a la izquierda | à esquerda |
+| arriba | acima / em cima |
+| abajo | abaixo |
+| cerca | perto |
+| lejos | longe |
+| aquí | aqui |
+
+> **PSIU!** Contracción: **a + a = à**.
 
 ### 16:52 · Pronombres personales
-eu · tu · **você** (el "vos/tú" habitual en Brasil) · o senhor / a senhora (usted) · ele / ela · **nós** · **vocês** (ustedes/vosotros) · eles / elas.
+| Español | Português | Nota |
+|---|---|---|
+| yo | eu | |
+| tú / vos | tu / **você** | *você* es lo habitual en Brasil |
+| usted | o senhor / a senhora | formal |
+| él / ella | ele / ela | |
+| nosotros | nós / **a gente** | *a gente* es lo más coloquial |
+| ustedes / vosotros | vocês / os senhores | |
+| ellos / ellas | eles / elas | |
 
-### 19:48 – 24:28 · Números
-0–10: zero, um, **dois/duas**, três, quatro, cinco, seis, sete, **oito**, nove, dez · 11–20: onze, doze, treze, **quatorze**, quinze, **dezesseis, dezessete, dezoito, dezenove**, vinte · 30 trinta, 40 quarenta, 50 cinquenta, 60 sessenta, 70 setenta, 80 **oitenta**, 90 noventa, 100 **cem** · mil · um **milhão** · um **bilhão** (= mil millones).
-- 💡 Siempre con **"e"** entre las partes: *mil novecentos **e** noventa **e** oito*.
-- Ordinales: primeiro, segundo, terceiro, quarto, quinto, sexto, **sétimo**, **oitavo**, nono, décimo.
+### 19:48 · Números cardinales
 
-### 26:44 · Familia
-**avó** (abuela, ó abierta) / **avô** (abuelo, ô cerrada) / **avós** · **irmã / irmão** (hermana/o) · **filho/a** · **homem / mulher** · **pai / mãe** · **criança** (niño/a en general) / **menino/a** · **namorado/a** (novio de pareja) vs **noivo/a** (prometido) · **sogro/a** · **neto/a** · **nora** (nuera) · **genro** (yerno) · sobrinho/a · tio/a · primo/a.
+#### Del 0 al 20
+| # | Português | # | Português |
+|---|---|---|---|
+| 0 | zero | 11 | onze |
+| 1 | um / uma | 12 | doze |
+| 2 | dois / duas | 13 | treze |
+| 3 | três | 14 | quatorze |
+| 4 | quatro | 15 | quinze |
+| 5 | cinco | 16 | dezesseis |
+| 6 | seis | 17 | dezessete |
+| 7 | sete | 18 | dezoito |
+| 8 | oito | 19 | dezenove |
+| 9 | nove | 20 | vinte |
+| 10 | dez | | |
+
+#### Decenas y números grandes
+| # | Português | # | Português |
+|---|---|---|---|
+| 30 | trinta | 100 | cem |
+| 40 | quarenta | 1.000 | mil |
+| 50 | cinquenta | 1.000.000 | um milhão |
+| 60 | sessenta | 2.000.000 | dois milhões |
+| 70 | setenta | 1.000 millones | um bilhão |
+| 80 | oitenta | 1998 | mil novecentos **e** noventa **e** oito |
+| 90 | noventa | 2024 | dois mil **e** vinte **e** quatro |
+
+> **PSIU!** Siempre va **"e"** entre las partes del número.
+
+### 24:28 · Números ordinales
+| # | Português | # | Português |
+|---|---|---|---|
+| 1.º | primeiro | 6.º | sexto |
+| 2.º | segundo | 7.º | sétimo |
+| 3.º | terceiro | 8.º | oitavo |
+| 4.º | quarto | 9.º | nono |
+| 5.º | quinto | 10.º | décimo |
+
+### 26:44 · Familia y relaciones
+
+#### Familia cercana
+| Español | Português | Español | Português |
+|---|---|---|---|
+| padre | pai | madre | mãe |
+| hijo/a | filho/a | hermano/a | irmão / irmã |
+| abuelo | avô (ô cerrada) | abuela | avó (ó abierta) |
+| nieto/a | neto/a | esposo/a | esposo/a, marido |
+
+#### Familia política y otros
+| Español | Português | Español | Português |
+|---|---|---|---|
+| suegro/a | sogro/a | yerno | genro |
+| nuera | nora | tío/a, primo/a | tio/a, primo/a |
+| sobrino/a | sobrinho/a | hombre / mujer | homem / mulher |
+| niño/a | criança, menino/a | novio/a (pareja) | namorado/a |
+| novio/a (prometido) | noivo/a | amigo/a | amigo/a |
 
 ### 30:24 · Partes del cuerpo
-**cabeça** · **cabelo** (pelo de la cabeza) · **olho** · **orelha** · nariz (masculino) · boca · **queixo** (mentón) · **pescoço** (cuello) · **ombro** (hombro) · braço · **cotovelo** (codo) · **mão** · **pulso** (muñeca) · dedo · peito · **costas** (espalda) · **quadril** (cadera) · perna · **joelho** (rodilla) · **pé** · **sobrancelha** (ceja) · **cílios** (pestañas).
 
-### 33:24 – 37:52 · Acciones (verbos)
-Los que **cambian** respecto al español son los que hay que memorizar:
-| español | português | español | português |
+#### Cabeza y cara
+| Español | Português | Español | Português |
 |---|---|---|---|
-| bajar | **descer** | hablar | **falar** |
-| besar | **beijar** | hacer | **fazer** |
-| cerrar | **fechar** | jugar | **brincar** (niños) |
-| callar | calar | escuchar | **escutar** |
-| llamar | **chamar** | llegar | **chegar** |
-| llorar | **chorar** | mirar | **olhar** |
-| pegar (adherir) | **colar** | agarrar | **pegar** |
-| poner | **pôr** | quitar / sacar | **tirar** |
-| salir | **sair** | saltar | **pular** |
-| tener | **ter** | volver | **voltar** |
-| conocer | **conhecer** | reír | **rir** |
-| bailar | **dançar** | escribir | **escrever** |
-| leer | **ler** | conducir | **dirigir** |
+| cabeza | cabeça | pelo | cabelo |
+| ojo | olho | oreja | orelha |
+| ceja | sobrancelha | pestañas | cílios |
+| mentón | queixo | cuello | pescoço |
 
-### 37:56 – 39:56 · La casa y objetos
-**banheiro** (baño) · **cozinha** · **quarto** (dormitorio) · sala de estar (living) · sala de jantar (comedor) · **escada** · **andar** (piso/planta) · **chão** (suelo) · **teto** (techo) · **janela** (ventana) · **porta** · **varanda** (balcón) · **elevador** · **fogão** (cocina/hornalla) · **geladeira** (heladera) · **pia** (lavabo) · **vaso** (inodoro ⚠️) · **copo** (vaso ⚠️) · **taça** (copa) · **xícara** (taza) · **prato** · **garfo** (tenedor) · **faca** (cuchillo) · **colher** (cuchara) · **talheres** · **panela** (cacerola) · **frigideira** (sartén) · **gaveta** (cajón) · **chaves** · **tomada** (enchufe) · **torneira** (grifo) · **espelho** · **toalha** · **escova** (cepillo) · **pente** (peine) · **lixo** (basura) · **criado-mudo** (mesa de luz).
+#### Cuerpo
+| Español | Português | Español | Português |
+|---|---|---|---|
+| hombro | ombro | codo | cotovelo |
+| mano | mão | muñeca | pulso |
+| espalda | costas | pecho | peito |
+| cadera | quadril | rodilla | joelho |
+| pierna | perna | pie | pé |
+
+### 33:24 · Acciones (verbos)
+Solo los que **cambian** respecto al español:
+
+#### Movimiento
+| Español | Português | Español | Português |
+|---|---|---|---|
+| bajar | descer | subir | subir |
+| llegar | chegar | salir | sair |
+| volver | voltar | saltar | pular |
+| conducir | dirigir | llevar | levar |
+
+#### Comunicación y sentidos
+| Español | Português | Español | Português |
+|---|---|---|---|
+| hablar | falar | llamar | chamar |
+| escuchar | escutar | mirar | olhar |
+| escribir | escrever | leer | ler |
+| reír / llorar | rir / chorar | callar | calar |
+
+#### Acciones cotidianas
+| Español | Português | Español | Português |
+|---|---|---|---|
+| hacer | fazer | tener | ter |
+| poner | pôr | quitar / sacar | tirar |
+| agarrar | pegar | pegar (adherir) | colar |
+| cerrar | fechar | besar | beijar |
+| jugar | brincar | bailar | dançar |
+| conocer | conhecer | abrazar | abraçar |
+
+### 37:56 · La casa y objetos
+
+#### Ambientes
+| Español | Português | Español | Português |
+|---|---|---|---|
+| baño | banheiro | cocina | cozinha |
+| dormitorio | quarto | living | sala de estar |
+| comedor | sala de jantar | balcón | varanda |
+| escalera | escada | piso (planta) | andar |
+| suelo | chão | techo | teto |
+| ventana | janela | puerta | porta |
+
+#### Cocina y mesa
+| Español | Português | Español | Português |
+|---|---|---|---|
+| heladera | geladeira | cocina (aparato) | fogão |
+| cacerola | panela | sartén | frigideira |
+| vaso | **copo** | copa | taça |
+| taza | xícara | plato | prato |
+| tenedor | garfo | cuchillo | faca |
+| cuchara | colher | cubiertos | talheres |
+| cajón | gaveta | mantel | toalha de mesa |
+
+#### Baño y otros
+| Español | Português | Español | Português |
+|---|---|---|---|
+| inodoro | **vaso** | lavatorio | pia |
+| grifo | torneira | espejo | espelho |
+| toalla | toalha | cepillo | escova |
+| peine | pente | basura | lixo |
+| llaves | chaves | enchufe | tomada |
+| mesa de luz | criado-mudo | ascensor | elevador |
 
 ### 42:48 · El barrio y la ciudad
-**rua** (calle) · **calçada** (acera) · **estrada** (carretera) · **praça** · **ponte** (puente) · **ponto de ônibus** (parada) · **faixa de pedestres** · **cruzamento** · **árvore** · **grama** (césped) · **balanço** (columpio) · **escorrega** (tobogán) · **metrô** · **esgoto** (alcantarilla).
+| Español | Português | Español | Português |
+|---|---|---|---|
+| calle | rua | acera | calçada |
+| carretera | estrada | plaza | praça |
+| puente | ponte | árbol | árvore |
+| parada de bus | ponto de ônibus | paso de peatones | faixa de pedestres |
+| cruce de calles | cruzamento | metro / subte | metrô |
+| césped | grama | columpio | balanço |
+| tobogán | escorrega | alcantarilla | esgoto |
 
 ### 44:12 · Tiendas y edificios
-**loja** (tienda) · **padaria** (panadería) · **açougue** (carnicería) · **sapataria** · **sacolão** (verdulería) · **cabeleireiro** (peluquería) · **delegacia** (comisaría) · **correio** · farmácia · **igreja** · **faculdade** · **bombeiros** · **lanchonete** (bar de comidas rápidas) · museu.
+| Español | Português | Español | Português |
+|---|---|---|---|
+| tienda | loja | panadería | padaria |
+| carnicería | açougue | verdulería | sacolão |
+| zapatería | sapataria | peluquería | cabeleireiro |
+| comisaría | delegacia | correo | correio |
+| iglesia | igreja | facultad | faculdade |
+| bomberos | bombeiros | bar | bar / lanchonete |
 
 ### 45:44 · Transporte
-aeroporto · **rodoviária** (terminal de buses) · **ônibus** · **avião** · navio/barco · **caminhão** · **carro** · **caminhonete** · táxi · **trem**.
-- PSIU!: no se dice "ir em", sino **ir de**: *ir de carro, ir de avião, ir de bicicleta*.
+| Español | Português | Español | Português |
+|---|---|---|---|
+| aeropuerto | aeroporto | terminal de bus | rodoviária |
+| ómnibus | ônibus | avión | avião |
+| auto | carro | camión | caminhão |
+| camioneta | caminhonete | tren | trem |
 
-### 46:28 – 53:36 · Alimentos y comidas
-- Comidas del día: **café da manhã** (desayuno) · **almoço** · **lanche** (merienda) · **jantar** (cena).
-- Bebidas: água · **suco** (jugo) · **refrigerante** (gaseosa) · **chá** · **vinho** · **cerveja**.
-- Básicos: **pão** · **arroz** · **feijão** (poroto) · **frango** (pollo) · **peru** (pavo) · **peixe** (pescado) · **ovos mexidos** · **batatas fritas** · **salada** · **queijo** · **presunto** (jamón ⚠️) · **linguiça** (chorizo) · **manteiga** (manteca) · **leite** · **açúcar** · sal (masculino: *o sal*) · **alho** (ajo) · **cebola** · **azeite** (de oliva).
-- Mar: **lula** (calamar) · **polvo** (pulpo ⚠️) · **camarão** · **pescada** (merluza).
-- Verduras: **alface** (lechuga) · **cenoura** (zanahoria) · **abóbora** (zapallo) · **ervilha** (guisante) · **beringela** · **cebolinha**.
-- Dulces: **bolo** (torta ⚠️) · **torta** (tarta) · **pudim** · **torradas** (tostadas) · mel.
+> **PSIU!** No se dice "ir em", sino **ir de**: *ir de carro, ir de avião, ir de bicicleta*.
 
-### 55:12 – 63:00 · Alfabeto y 37 sonidos principales (¡lo más importante!)
-Letras: A, bê, cê, dê, é, efe, gê, agá, i, jota, cá, ele, eme, ene, ó, pê, quê, erre, esse, tê, u, vê, dáblio, xis, ípsilon, zê.
+### 46:28 · Alimentos y comidas
 
+#### Las comidas del día
+| Español | Português |
+|---|---|
+| desayuno | café da manhã |
+| almuerzo | almoço |
+| merienda | lanche |
+| cena | jantar |
+
+#### Bebidas
+| Español | Português | Español | Português |
+|---|---|---|---|
+| agua | água | jugo | suco |
+| gaseosa | refrigerante | té | chá |
+| vino | vinho | cerveza | cerveja |
+
+#### Platos y básicos
+| Español | Português | Español | Português |
+|---|---|---|---|
+| pan | pão | arroz | arroz |
+| porotos | feijão | pollo | frango |
+| pavo | peru | pescado | peixe |
+| huevos revueltos | ovos mexidos | papas fritas | batatas fritas |
+| ensalada | salada | queso | queijo |
+| jamón | **presunto** | chorizo | linguiça |
+| leche | leite | manteca | manteiga |
+| ajo | alho | cebolla | cebola |
+| aceite de oliva | azeite | azúcar | açúcar |
+
+#### Del mar
+| Español | Português | Español | Português |
+|---|---|---|---|
+| calamar | lula | pulpo | **polvo** |
+| camarón | camarão | merluza | pescada |
+
+#### Verduras
+| Español | Português | Español | Português |
+|---|---|---|---|
+| lechuga | alface | zanahoria | cenoura |
+| zapallo | abóbora | guisante | ervilha |
+| berenjena | beringela | cebolla de verdeo | cebolinha |
+
+#### Dulces
+| Español | Português | Español | Português |
+|---|---|---|---|
+| torta (pastel) | **bolo** | tarta | torta |
+| budín | pudim | tostadas | torradas |
+
+### 55:12 · Alfabeto
+| A | B | C | D | E | F | G | H | I | J | K | L | M |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| a | bê | cê | dê | é | efe | gê | agá | i | jota | cá | ele | eme |
+
+| N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ene | ó | pê | quê | erre | esse | tê | u | vê | dáblio | xis | ípsilon | zê |
+
+### 56:16 · Principales sonidos (¡lo más importante!)
+
+#### Vocales
 | Letra | Suena | Ejemplo |
 |---|---|---|
 | é / ê | e abierta / e cerrada | café · você |
 | ó / ô | o abierta / o cerrada | avó · avô |
-| **l** final de sílaba | u | Brasil → "Brasiu" |
-| **am / em / om** final | diptongo nasal "áun / éin / óun" | falaram · homem · com |
-| **im / um** final | "in / un" nasal | sim · um |
-| **ti**, **te** final átona | "chi" | tia → "chia", sorte → "sórchi" |
-| **di**, **de** final átona | "dji" | dia → "djia", idade → "idádji" |
+| **o** final átona | u | livro → "lívru" |
+| **e** final átona | i | livre → "lívri" |
+
+#### Nasales
+| Letra | Suena | Ejemplo |
+|---|---|---|
+| **am** final | "áun" | falaram |
+| **em** final | "éin" | homem |
+| **im / um** final | "in / un" | sim · um |
+| **om** final | "óun" | com |
+| **ã / õ** (til) | a / o nasal | irmã · limões |
+
+#### Consonantes que cambian
+| Letra | Suena | Ejemplo |
+|---|---|---|
+| **l** final de sílaba | u | Brasil → "Brasíu" |
+| **ti**, **te** final átona | "chi" | tia, sorte → "sórchi" |
+| **di**, **de** final átona | "dji" | dia, idade → "idádji" |
 | **s** entre vocales, **z** | zumbido (z sonora) | casa, realizar |
 | **ss**, s tras consonante | s normal | confessar, cansado |
-| **o** final átona | u | livro → "livru" |
-| **e** final átona | i | livre → "livri" |
-| **b** / **v** | se distinguen: b ≠ v (v labiodental, como una f vibrada) | bom · vida |
-| **ã / õ** (til) | vocal nasal | irmã · limões |
+| **b** / **v** | distintas: la v es labiodental | bom · vida |
 | **r** inicial, **rr** | casi como una J suave | rosa, carro |
 | **x** | z / cs / ss / sh | exato · táxi · próximo · baixo |
 | **as** tónica final | "aish" (acento carioca) | mas |
+
+#### Combinaciones
+| Letras | Suena | Ejemplo |
+|---|---|---|
 | **nh** | ñ | vinho |
-| **lh** | ll (como una "li" rápida) | filho |
+| **lh** | ll (una "li" rápida) | filho |
 | **ch** | "sh" del inglés | chamada |
-| **ge, gi**, **j** | como la "y/ll" rioplatense (sh sonora) | gesto, jamais |
+| **ge, gi**, **j** | como la "y/ll" rioplatense | gesto, jamais |
 
 ---
 
 ## Parte 2 — Lo que el video no cubre y necesitas para hablar rápido
 
-### A. Los 10 falsos amigos más peligrosos
+### A. Los falsos amigos más peligrosos
 | português | significa | NO significa |
 |---|---|---|
 | **esquisito** | raro | exquisito (= *delicioso*) |
@@ -144,15 +506,17 @@ Letras: A, bê, cê, dê, é, efe, gê, agá, i, jota, cá, ele, eme, ene, ó, p
 | **rato** | ratón | rato (= *momento*) |
 
 ### B. Gramática mínima (80 % de las conversaciones)
-1. **Você + verbo en 3.ª persona.** En Brasil casi nadie conjuga el "tú": *você fala*, *você quer*, *você tem*.
-2. **"A gente"** = nosotros, y también va en 3.ª persona: *a gente vai* (vamos), *a gente come*.
-3. **Futuro fácil:** **ir + infinitivo** → *eu vou comer*, *a gente vai viajar*.
-4. **Estar + gerundio** igual que en español: *estou falando*, *está chovendo*.
-5. **Contracciones obligatorias:** em + o = **no**, em + a = **na**, de + o = **do**, de + a = **da**, a + a = **à**, por + o = **pelo**. → *Estou no Brasil. Sou da Argentina.*
-6. **Tener que** → **ter que** / *precisar de*: *Tenho que ir. Preciso de ajuda.*
-7. **Gustar** funciona al revés: **eu gosto de** café (yo gusto de): *Você gosta de dançar?*
-8. **Negación doble** con *não* al final, típica de Brasil: *Não sei, não.*
-9. **"Tem"** = hay: *Tem um restaurante aqui perto?*
+| Regla | Cómo se usa | Ejemplo |
+|---|---|---|
+| **você** + 3.ª persona | en Brasil casi nadie conjuga el "tú" | *você fala, você quer, você tem* |
+| **a gente** = nosotros | también va en 3.ª persona | *a gente vai, a gente come* |
+| futuro fácil | **ir** + infinitivo | *eu vou comer, a gente vai viajar* |
+| gerundio | igual que en español | *estou falando, está chovendo* |
+| contracciones | em+o = **no**, em+a = **na**, de+o = **do**, de+a = **da**, a+a = **à**, por+o = **pelo** | *Estou no Brasil. Sou da Argentina.* |
+| tener que | **ter que** / **precisar de** | *Tenho que ir. Preciso de ajuda.* |
+| gustar | **gostar de** (yo "gusto de") | *Eu gosto de café. Você gosta de dançar?* |
+| haber | **tem** = hay | *Tem um restaurante aqui perto?* |
+| negación doble | *não* también al final (coloquial) | *Não sei, não.* |
 
 ### C. Los 8 verbos que más usarás (presente · pretérito · futuro)
 | infinitivo | eu | você / ele / a gente | nós | vocês / eles | pretérito (eu / você) |
@@ -170,30 +534,46 @@ Verbos regulares en **-ar** (falar): falo, fala, falamos, falam · pretérito: *
 En **-er** (comer): como, come, comemos, comem · *comi, comeu*. En **-ir** (partir): parto, parte · *parti, partiu*.
 
 ### D. Frases comodín que te sacan de cualquier apuro
-- **Beleza?** / **Tudo certo?** — ¿todo bien? (muy común)
-- **Legal!** — ¡genial!
-- **Com certeza!** — ¡seguro!
-- **Nossa!** — ¡guau! / ¡madre mía!
-- **Pois é…** — y sí… / así es (para seguir la charla)
-- **Tá bom / Tá** — está bien, ok
-- **Né?** — ¿no? / ¿verdad? (al final de cualquier frase)
-- **Como assim?** — ¿cómo que…? / ¿qué quieres decir?
-- **Pode repetir, por favor?** — ¿puedes repetir?
-- **O que significa…?** / **Como se diz … em português?**
-- **Estou aprendendo português.** — Estoy aprendiendo portugués.
-- **A conta, por favor.** — La cuenta, por favor.
-- **Eu queria…** — Quisiera… (para pedir en bares y tiendas)
-- **Onde fica o banheiro?** — ¿Dónde está el baño?
-- **Socorro! / Chame a polícia! / Chame uma ambulância!** — emergencias
+
+#### Para seguir la charla
+| Português | Significa |
+|---|---|
+| Beleza? / Tudo certo? | ¿todo bien? |
+| Legal! | ¡genial! |
+| Com certeza! | ¡seguro! |
+| Nossa! | ¡guau! / ¡madre mía! |
+| Pois é… | y sí… / así es |
+| Tá bom / Tá | está bien, ok |
+| …, né? | …, ¿no? / ¿verdad? |
+| Como assim? | ¿cómo que…? |
+
+#### Cuando no entiendes
+| Português | Significa |
+|---|---|
+| Pode repetir, por favor? | ¿puedes repetir? |
+| O que significa…? | ¿qué significa…? |
+| Como se diz … em português? | ¿cómo se dice … en portugués? |
+| Estou aprendendo português. | estoy aprendiendo portugués |
+
+#### En la calle y en el restaurante
+| Português | Significa |
+|---|---|
+| Eu queria… | quisiera… |
+| A conta, por favor. | la cuenta, por favor |
+| Onde fica o banheiro? | ¿dónde está el baño? |
+| Socorro! | ¡socorro! |
+| Chame a polícia! / uma ambulância! | ¡llame a la policía! / ¡una ambulancia! |
 
 ### E. Trucos para sonar brasileño desde el día 1
-1. Cierra las **o** y **e** finales: *livru*, *livri*, *bonitu*.
-2. **te/de** finales → "chi/dji": *leite* → "léichi", *cidade* → "sidádji".
-3. **L final** → U: *Brasil* → "Brasiu", *hotel* → "otéu".
-4. **R inicial** y **rr** → J suave: *Rio* → "Jío", *carro* → "cajo".
-5. Nasaliza sin miedo: **-ão** es como "aun" dicho por la nariz: *não, pão, mão*.
-6. La **v** no es b: muerde el labio inferior.
-7. **s** entre vocales vibra como abeja: *casa* → "caza".
+| Truco | Ejemplo |
+|---|---|
+| cierra las **o** y **e** finales en u / i | *livro* → "lívru", *bonito* → "bonítu" |
+| **te / de** finales → "chi / dji" | *leite* → "léichi", *cidade* → "sidádji" |
+| **L** final → u | *Brasil* → "Brasíu", *hotel* → "otéu" |
+| **r** inicial y **rr** → j suave | *Rio* → "Jíu", *carro* → "káju" |
+| nasaliza sin miedo: **-ão** = "aun" por la nariz | *não, pão, mão* |
+| la **v** no es b: apoya el labio inferior en los dientes | *vida, você* |
+| **s** entre vocales vibra como una abeja | *casa* → "káza" |
 
 ### F. Plan de 30 días (30–45 min al día)
 | Semana | Objetivo | Tareas |

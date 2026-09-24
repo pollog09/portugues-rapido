@@ -183,3 +183,6 @@ select {
 .lb-nav { position: absolute; top: 50%; transform: translateY(-50%); font-size: 36px; line-height: 1; background: rgba(255,255,255,.12); color: #fff; border: 0; padding: 10px 16px; }
 .lb-prev { left: 10px; } .lb-next { right: 10px; }
 .lb-cap { position: absolute; bottom: 8px; left: 0; right: 0; text-align: center; color: #ddd; font-size: 14px; margin: 0; }
+.notes h4, .guide h4 { margin: 18px 0 6px; font-size: 15px; color: var(--accent); text-transform: uppercase; letter-spacing: .05em; }
+.notes blockquote { margin: 10px 0; padding: 6px 14px; border-left: 4px solid var(--gold); background: var(--bg); border-radius: 0 8px 8px 0; }
+.notes table, .guide table { margin: 6px 0 12px; }
